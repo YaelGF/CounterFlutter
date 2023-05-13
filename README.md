@@ -1,16 +1,26 @@
-# Counter
+# Flutter Counter
+Counter Project in flutter
 
-A new Flutter project.
+# How to Install
 
-## Getting Started
+``` shell
+git clone https://github.com/YaelGF/CounterFlutter.git
+```
 
-This project is a starting point for a Flutter application.
+``` shell
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+``` shell
+flutter build apk --release
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Run the project
+
+## App
+![Counter](/assets/Counter.png)
+
+# License
+[Apache License 2.0]
